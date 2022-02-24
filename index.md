@@ -1,5 +1,7 @@
 # KMOD Developer Manual
 
+[Download KMOD from this website](./sdk/)
+
 "Kai's Modular Interface" (Formerly KMODG) is a Sandbox user-generated experience written in the GODOT engine. This contains the basics you need to create mods. And this comes with KMOD.
 
 
