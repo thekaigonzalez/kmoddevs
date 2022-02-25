@@ -19,3 +19,7 @@ Download the KMOD SDK from this website (as well as KMOD!)
 ## KMOD Developer Manual Archive
 
 - [KMOD Developer Manual for 0.0.9](./devmanual/kmod_dev_manual0.0.9.pdf)
+
+## KMOD Launcher (Installation Manager)
+
+- [KMOD Launcher 1.0](../kmod/launcher/KMODLauncher1.0.zip)
