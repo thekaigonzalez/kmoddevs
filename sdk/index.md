@@ -23,3 +23,7 @@ Download the KMOD SDK from this website (as well as KMOD!)
 ## KMOD Launcher (Installation Manager)
 
 - [KMOD Launcher 1.0](../kmod/launcher/KMODLauncher1.0.zip)
+
+### Known Issues
+
+If you want to download KMOD using the KMOD Launcher, you need to give it admin permissions when you first launch it.

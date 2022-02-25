@@ -145,20 +145,14 @@ Copy your map.pck (or your name) to the C:/KMOD/Maps/map.pck (or your name map) 
 
 DWBS means you wont have to worry much about post processing, mainly stuff like SSAO, AE, and more are automatically attached to the player.
 
-![image-20220223202538777](C:\Users\seymo\AppData\Roaming\Typora\typora-user-images\image-20220223202538777.png)
-
 (**In-game**)
 
-![image-20220223202625200](C:\Users\seymo\AppData\Roaming\Typora\typora-user-images\image-20220223202625200.png)
 
 It's recommended not to mess with these values due to the nature of complexity when it comes to calculating the shader validity (especially with LITE MODE)
 
 ## 1.4.1 - Exporting Maps
 
 Exporting maps is like any other type of KMOD addon, in godot you export like a game, but instead of choosing Build Project (or Export Project) you choose Build PCK/Zip.
-
-![image-20220223202856324](C:\Users\seymo\AppData\Roaming\Typora\typora-user-images\image-20220223202856324.png)
-
 
 
 ## 1.5 - ABI Compatibility
@@ -187,8 +181,6 @@ KMOD was always meant to be a scalable game, to be played anywhere, at anytime.
 
 But sometimes users don't always have high-end computers, and can't really handle the KMOD Real time shadows, therefore, workarounds are needed:
 
-![image-20220223203515907](C:\Users\seymo\AppData\Roaming\Typora\typora-user-images\image-20220223203515907.png)
-
 LITE MODE is essentially where it scales down the graphics from the default environment to give a higher FPS experience for KMOD, with quality as a sacarfice.
 
 ### 1.6.1 - Real-Time Shadows requirements
@@ -203,10 +195,6 @@ These are the minimum to get a 60+ FPS experience with KMOD's Real-time graphics
 ### 1.6.2 - Optimization
 
 Usually some maps, knowing about the Godot optimization problem, will attempt to allow a "No Shadows" or "Low Graphics" option, this is purely Map-controlled, so please look into the map's description before loosely installing maps thinking they're super optimized.
-
-​																												( image of kmod_prototype)
-
-![image-20220223204451841](C:\Users\seymo\AppData\Roaming\Typora\typora-user-images\image-20220223204451841.png)
 
 ## 1.7 - Player variables
 
